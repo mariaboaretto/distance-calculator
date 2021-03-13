@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/min_distance.iml" filepath="$PROJECT_DIR$/.idea/min_distance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Distance-calculator.iml" filepath="$PROJECT_DIR$/.idea/Distance-calculator.iml" />
     </modules>
   </component>
 </project>
